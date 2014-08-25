@@ -1,0 +1,5 @@
+cd C:\Java
+
+javac PrintHomeTown.java
+
+java PrintHomeTown
